@@ -33,7 +33,7 @@ footer, header, hgroup, main, menu, nav, section {
 }
 body {
   line-height: 1;
-  overflow-x: hidden;
+  overflow-x: hidden;  //애니메이션 시 나타나는 scrollbar 지우기
 }
 menu, ol, ul {
   list-style: none;
